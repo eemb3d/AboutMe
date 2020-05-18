@@ -1,8 +1,10 @@
-# Aboutme
+# AboutMe
  - September 2015/Present  – Self-taught and Freelancer (Full stack software developer)
  - May 2013/September 2015 – Senior Software Developer
  - April 2011/November 2013 – Software Developer and Junior System Administrator
  - July 2001/April 2011 – Data Analyst
+
+--- 
 
  - September 2015/Present (Freelancer Full stack software developer and Self-taught)
  ```
